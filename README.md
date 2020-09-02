@@ -69,9 +69,9 @@ https://keras.io/
 
 
 
-# [OMDENA project] (https://omdena.com/projects/children-violence/)
+# [Omdena: Prevention of Online Violence against Children]
 
-embed this link! no need to display URL ;) !!
+From August 20 to October 20, 2020, I am participating in an [Omdena project](https://omdena.com/projects/children-violence/) aimed at contributing to the prevention of online violence against children, with the help of NLP techniques. The outbreak of Covid-19 has massively aggravated related issues, since many schools are still closed worldwide and kids are receiving a substantial part of their education online.
 
 
 
@@ -83,6 +83,8 @@ I am part of a team of data scientists working on Kaggle Competitions together. 
 
 
 # Market Segmentation Analysis for AAA Northeast
+
+Between March and December 2019, I had the chance to pursue a [Postgraduate Diploma in Machine Learning & Artificial Intelligence](https://execed.cvn.columbia.edu/pgdmlai/index.php?ta=y&utm_source=Google&utm_medium=Search&utm_campaign=B-10055_WW_GG_SE_PGDMLAI_SEP_20_Brand_New&utm_content=Emeritus-Brand&utm_term=%2Bemeritus%20%2Bmachine%20%2Blearning&gclid=Cj0KCQjwhb36BRCfARIsAKcXh6GYpaI1h3McvZ69YLnC-zaZN6YwysT_12__llB84wMLN-7nTet65dAaArEBEALw_wcB) offered by EMERITUS in collaboration with Columbia Engineering Executive Education.  
 
 In the framework of a CAPSTONE project ... PGDMLAI ... 
 
