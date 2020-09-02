@@ -37,6 +37,7 @@ In case you are curious about where I see myself in 5 or 10 years, I have to adm
 ## Tools I've already worked with
 <p align="center">
 <a href="https://www.python.org/"><img height="60" width="180" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg">
+<a href="https://jupyter.org/"><img height="60" width="180" src="https://jupyter.org/assets/nav_logo.svg">
 <a href="https://rstudio.com/"><img height="75" width="140" src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg">
 <a href="https://www.ibm.com/ch-de/products/spss-statistics"><img height="60" width="180" src="https://comparecamp.com/media/uploads/2019/03/IBM-SPSS-logo-1.png">
 
@@ -44,17 +45,15 @@ In case you are curious about where I see myself in 5 or 10 years, I have to adm
 <p align="center">
 <a href="https://www.stata.com/"><img height="50" width="140" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSg_VmM_D6WApZ5H5hcrR7xe-L8nFD3WF8g_g&usqp=CAU">
 <a href="https://ch.mathworks.com/de/products/matlab.html"><img height="75" width="237" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSm6_4rx9TvVvC5qKnDqgXMXkm8AzL1SsFCyw&usqp=CAU">
-<a href="https://www.wolfram.com/mathematica/?source=nav"><img height="50" width="140" src="https://www.additive-net.de/images/software/wolfram/mathematica/mma_11/mathematica_11_logo.png">
+<a href="https://www.wolfram.com/mathematica/?source=nav"><img height="50" width="220" src="https://www.additive-net.de/images/software/wolfram/mathematica/mma_11/mathematica_11_logo.png">
 <a href="https://www.graphpad.com/scientific-software/prism/"><img height="50" width="140" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_52e37f0a6d5c743165ff980b25f27f63/graphpad-prism.png">
 
 
 <p align="center">
+<a href="https://feature-engine.readthedocs.io/en/latest/"><img height="85" width="85" src="https://feature-engine.readthedocs.io/en/latest/_images/FeatureEngine.png">
+<a href="https://scikit-learn.org/stable/#"><img height="85" width="127" src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png">  
 <a href="https://keras.io/"><img height="50" width="172" src="https://keras.io/img/logo.png">
 <a href="https://www.tensorflow.org/"><img height="85" width="160" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
-<a href="https://feature-engine.readthedocs.io/en/latest/"><img height="85" width="85" src="https://feature-engine.readthedocs.io/en/latest/_images/FeatureEngine.png">
-<a href="https://scikit-learn.org/stable/#"><img height="85" width="127" src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png">
-
-
 
 
 <p align="center">
