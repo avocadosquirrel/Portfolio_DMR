@@ -3,14 +3,14 @@ Diana's portfolio created for DXC Technology - Open Health Connect
 
 
 
-# Welcome to my little world & GitHub Repository!
+### Welcome to my little world & GitHub Repository!
 
 Dear reader, I am very pleased to see you've found your way through my Portfolio. My name is Diana, I live in Switzerland and am a neuroscientist by education. Please don't take this too serious! You might just as well call me a ML engineer, data scientist, statistician, clinical researcher, medical writer or even relationships manager. Also passionate gardener, mommy of two daughters, macro photographer would fit quite well.
 
 ![](https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/WelcomeSayings.png)
 
 
-### Let me introduce myself, first ...
+## Let me introduce myself, first ...
 
 I have always loved maths & modeling. At the age of 18, I had the chance to work for ABB Semiconductors during my school holidays and modeled heat spread from differently shaped thyristors. Whether you believe it or not - back in 2003, this task involved ruler and pencil! I would love to hear from ABB, whether a more efficient method for solving this task has been invented in the meantime.
 
@@ -70,20 +70,23 @@ In case you are curious about where I see myself in 5 or 10 years, I have to adm
 <a href="https://www.graphpad.com/scientific-software/prism/"><img height="50" width="140" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_52e37f0a6d5c743165ff980b25f27f63/graphpad-prism.png">
 
 
-# Omdena: Prevention of Online Violence against Children
+
+## Selected Projects
+
+### Omdena: Prevention of Online Violence against Children
 
 From August 20 to October 20, 2020, I am participating in an [Omdena project](https://omdena.com/projects/children-violence/) aimed at contributing to the prevention of online violence against children, with the help of NLP techniques. The outbreak of Covid-19 has massively aggravated related issues, since many schools are still closed worldwide and kids are receiving a substantial part of their education online.
 
 
 
-# Kaggle Competitions
+### Kaggle Competitions
 
 I am part of a team of data scientists working on Kaggle Competitions together. Am very much looking forward to extending this section in the near future :) 
 
 ![](https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/KaggleHousePrices_inDABL.jpg) 
 
 
-# Market Segmentation Analysis for AAA Northeast
+### Market Segmentation Analysis for AAA Northeast
 
 Between March and December 2019, I had the chance to pursue a [Postgraduate Diploma in Machine Learning & Artificial Intelligence](https://execed.cvn.columbia.edu/pgdmlai/index.php?ta=y&utm_source=Google&utm_medium=Search&utm_campaign=B-10055_WW_GG_SE_PGDMLAI_SEP_20_Brand_New&utm_content=Emeritus-Brand&utm_term=%2Bemeritus%20%2Bmachine%20%2Blearning&gclid=Cj0KCQjwhb36BRCfARIsAKcXh6GYpaI1h3McvZ69YLnC-zaZN6YwysT_12__llB84wMLN-7nTet65dAaArEBEALw_wcB) offered by EMERITUS in collaboration with Columbia Engineering Executive Education.
 
@@ -92,13 +95,13 @@ Between March and December 2019, I had the chance to pursue a [Postgraduate Dipl
 UPLOAD MY REPORT HERE
 
 
-# My PhD
+### My PhD
 
 ![](https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/images/PhD_AllInOne.jpg) 
 
 
 
-# Publication List
+## Publication List
 
 
 Roccaro-Waldmeyer DM, Schucht P, Murek M, Zubak I, Goldberg J, Falk S, Dahlweid M, Raabe A. Crowdfunding for Innovative Medical Research: the HORAO Crowdfunding Campaign. Journal of Medical Internet Research. 25/06/2020:19715 (forthcoming/in press).
