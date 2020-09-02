@@ -47,20 +47,16 @@ In case you are curious about where I see myself in 5 or 10 years, I have to adm
 <a href="https://jupyter.org/"><img height="60" width="180" src="https://jupyter.org/assets/nav_logo.svg">
 <a href="https://rstudio.com/"><img height="75" width="140" src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg">
 
-
-
-<p align="center">
-<a href="https://www.stata.com/"><img height="50" width="140" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSg_VmM_D6WApZ5H5hcrR7xe-L8nFD3WF8g_g&usqp=CAU">
-<a href="https://ch.mathworks.com/de/products/matlab.html"><img height="75" width="237" src="https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/images/MatlabIcon.jpg">
-<a href="https://www.wolfram.com/mathematica/?source=nav"><img height="50" width="220" src="https://www.additive-net.de/images/software/wolfram/mathematica/mma_11/mathematica_11_logo.png">
-
-
-
 <p align="center">
 <a href="https://feature-engine.readthedocs.io/en/latest/"><img height="85" width="85" src="https://feature-engine.readthedocs.io/en/latest/_images/FeatureEngine.png">
 <a href="https://scikit-learn.org/stable/#"><img height="68" width="127" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png">  
 <a href="https://keras.io/"><img height="50" width="172" src="https://keras.io/img/logo.png">
 <a href="https://www.tensorflow.org/"><img height="85" width="160" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
+  
+<p align="center">
+<a href="https://www.stata.com/"><img height="50" width="140" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSg_VmM_D6WApZ5H5hcrR7xe-L8nFD3WF8g_g&usqp=CAU">
+<a href="https://ch.mathworks.com/de/products/matlab.html"><img height="75" width="237" src="https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/images/MatlabIcon.jpg">
+<a href="https://www.wolfram.com/mathematica/?source=nav"><img height="50" width="220" src="https://www.additive-net.de/images/software/wolfram/mathematica/mma_11/mathematica_11_logo.png">
 
 
 <p align="center">
