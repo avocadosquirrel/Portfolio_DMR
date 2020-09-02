@@ -57,10 +57,14 @@ In case you are curious about where I see myself in 5 or 10 years, I have to adm
 
 
 <p align="center">
-
+<a href="https://seaborn.pydata.org/"><img height="85" width="160" src="https://upload.wikimedia.org/wikipedia/en/0/06/Tableau_logo.svg">
+<a href="https://matplotlib.org/3.1.0/index.html"><img height="85" width="160" src="https://matplotlib.org/3.1.0/_static/logo2.png">
 <a href="https://www.tableau.com/"><img height="85" width="160" src="https://upload.wikimedia.org/wikipedia/en/0/06/Tableau_logo.svg">
+
+
+
 <p align="center">
-<a href="https://www.jetbrains.com/pycharm"><img height="85" width="160" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg">
+<a href="https://matplotlib.org/3.1.0/index.html"><img height="85" width="160" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg">
 
 
 
