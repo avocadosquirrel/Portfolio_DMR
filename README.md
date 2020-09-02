@@ -1,17 +1,19 @@
 # Diana Roccaro
-Diana's portfolio for DXC Technology Open Health Connect
+Diana's portfolio created for DXC Technology - Open Health Connect
 
 # Welcome to my little world & GitHub Repository!
 
-I am very pleased to see you've found your way through my Portfolio. My name is Diana, I live in Switzerland and am a neuroscientist by education. Please don't take this too serious! You might just as well call me a ML engineer, data scientist, statistician, clinical researcher, medical writer or even relationships manager. Also passionate gardener, mommy of two daughters, macro photographer would fit quite well.
+Dear reader, I am very pleased to see you've found your way through my Portfolio. My name is Diana, I live in Switzerland and am a neuroscientist by education. Please don't take this too serious! You might just as well call me a ML engineer, data scientist, statistician, clinical researcher, medical writer or even relationships manager. Also passionate gardener, mommy of two daughters, macro photographer would fit quite well.
 
-![](/images/AutumnComing.jpg)
+![](/images/WelcomeSayings.jpg)
 
 ### Let me introduce myself, first ...
 ADD MORE DATA SCIENCE LANGUAGE !! AMEISE; DIE DAS NADELDING TRàGT!!! DO THE RIGHT THING!!! 
 not the easiest, neither just work hard and maximize hours per week. TELL A STORY !!!
 
 I have always loved maths & modeling. At the age of 18, I had the chance to work for ABB Semiconductors during my school holidays and modeled heat spread from differently shaped thyristors. One was finger-gate, I don't remember the second. Whether you believe it or not - back in 2003, this task involved ruler and pencil! I would love to hear from ABB, whether a more efficient method for solving this task has been invented in the meantime.
+
+![](/images/AutumnComing.jpg)
 
 Since I however hated conducting mathematical proofs, studying maths was no option to me. Rather architecture or graphical design. I ended up at Human Medicine and got to learn about an association organizing research exchange stays for Swiss Medical Students. This took me to Japan (Hokkaido University, Molecular Pathology), where I spent three amazing months in 2008. During my 5th semester, I realized not desiring to become a medical doctor. Too much bureaucracy, too broad the scope, eventually mostly a classification problem accompanied by too much noise around my personal signals of interest. I have always loved to dive deeper, truly understand relationships and mechanisms. This made me turn towards Biomedical Sciences, followed by a PhD in Neuroscience (/Medical Sciences). I am fascinated by the complex networks of our brains and by the fact that such abstract things as human cognition and perception can be conceptualized at all. Or should we better say: that scientists out there believe, they could?
 
@@ -87,6 +89,7 @@ In the framework of a CAPSTONE project ... PGDMLAI ...
 # My PhD
 
 ![](https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/images/PhD_AllInOne.jpg) 
+
 
 
 # Publication List !!
