@@ -85,6 +85,8 @@ In case you are curious about where I see myself in 5 or 10 years, I have to adm
 
 From August 20 to October 20, 2020, I am participating in an [Omdena project](https://omdena.com/projects/children-violence/) aimed at contributing to the prevention of online violence against children, with the help of NLP techniques. The outbreak of Covid-19 has massively aggravated related issues, since many schools are still closed worldwide and kids are receiving a substantial part of their education online.
 
+... results under construction ...
+
 <br/>
 <br/>
 
