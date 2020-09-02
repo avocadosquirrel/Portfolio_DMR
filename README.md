@@ -1,15 +1,15 @@
 # Diana Roccaro
-Diana's portfolio created for DXC Technology - Open Health Connect
-
-
+Diana's portfolio created for DXC Technology - Open Health Connect  
+<br/>
+<br/>
 
 ### Welcome to my little world & GitHub Repository!
 
 Dear reader, I am very pleased to see you've found your way through my Portfolio. My name is Diana, I live in Switzerland and am a neuroscientist by education. Please don't take this too serious! You might just as well call me a ML engineer, data scientist, statistician, clinical researcher, medical writer or even relationships manager. Also passionate gardener, mommy of two daughters, macro photographer would fit quite well.
 
 ![](https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/WelcomeSayings.png)
-
-
+<br/>
+<br/>
 ## Let me introduce myself, first ...
 
 I have always loved maths & modeling. At the age of 18, I had the chance to work for ABB Semiconductors during my school holidays and modeled heat spread from differently shaped thyristors. Whether you believe it or not - back in 2003, this task involved ruler and pencil! I would love to hear from ABB, whether a more efficient method for solving this task has been invented in the meantime.
@@ -34,7 +34,8 @@ I have several private projects in my mind, am intending to develop an android a
 
 In case you are curious about where I see myself in 5 or 10 years, I have to admit wondering about that, too. The world is too dynamic for me to have such an answer at hand already today. I will thus just continue sowing my little plants in our garden, in the continuous hope of by whichever means being able to contribute to making this world a better place to live. Be it for patients of any species, children of any ethnicity or any other living creature (note: Sars-COV2 is not part of the object class "living creature", but relies on animal cells to express its genes). 
 
-
+<br/>
+<br/>
 
 ## Tools I've already worked with
 <p align="center">
@@ -70,7 +71,8 @@ In case you are curious about where I see myself in 5 or 10 years, I have to adm
 <a href="https://www.ibm.com/ch-de/products/spss-statistics"><img height="60" width="180" src="https://comparecamp.com/media/uploads/2019/03/IBM-SPSS-logo-1.png">  
 <a href="https://www.graphpad.com/scientific-software/prism/"><img height="50" width="140" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_52e37f0a6d5c743165ff980b25f27f63/graphpad-prism.png">
 
-
+<br/>
+<br/>
 
 ## Selected Projects
 
@@ -79,14 +81,17 @@ In case you are curious about where I see myself in 5 or 10 years, I have to adm
 
 From August 20 to October 20, 2020, I am participating in an [Omdena project](https://omdena.com/projects/children-violence/) aimed at contributing to the prevention of online violence against children, with the help of NLP techniques. The outbreak of Covid-19 has massively aggravated related issues, since many schools are still closed worldwide and kids are receiving a substantial part of their education online.
 
-
+<br/>
+<br/>
 
 ### Kaggle Competitions
 
-I am part of a team of data scientists working on Kaggle Competitions together. Am very much looking forward to extending this section in the near future :) 
+I am part of a team of data scientists working on Kaggle Competitions together. Am very much looking forward to extending this section in the near future :relaxed: 
 
-![](https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/KaggleHousePrices_inDABL.jpg) 
+![](https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/images/KaggleHousePrices_inDABL.jpg) 
 
+<br/>
+<br/>
 
 ### Market Segmentation Analysis for AAA Northeast
 
@@ -96,12 +101,15 @@ Between March and December 2019, I had the chance to pursue a [Postgraduate Dipl
 
 ![](https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/images/200901%20PGDMLAI%20Demo%20Final.jpg)
 
+<br/>
+<br/>
 
 ### My PhD
 
 ![](https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/images/PhD_AllInOne.jpg) 
 
-
+<br/>
+<br/>
 
 ## Publication List
 
