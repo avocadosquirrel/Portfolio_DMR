@@ -94,7 +94,7 @@ Between March and December 2019, I had the chance to pursue a [Postgraduate Dipl
 
 3 months of theoretical courses on ML foundations were followed by 3 months of theoretical courses related to AI. During these 6 months, (bi/)weekly assignments had to be handed in in the form of Jupyter Notebooks. The third part of this PGDMLAI consisted in a 7-week CAPSTONE project conducted in collaboration with the roadside assistance provider AAA Northeast. 
 
-UPLOAD MY REPORT HERE
+![](https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/images/200901%20PGDMLAI%20Demo%20Final.jpg)
 
 
 ### My PhD
