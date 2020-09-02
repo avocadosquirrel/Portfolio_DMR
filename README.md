@@ -7,9 +7,8 @@ Dear reader, I am very pleased to see you've found your way through my Portfolio
 
 ![](/images/WelcomeSayings.jpg)
 
+
 ### Let me introduce myself, first ...
-ADD MORE DATA SCIENCE LANGUAGE !! AMEISE; DIE DAS NADELDING TRàGT!!! DO THE RIGHT THING!!! 
-not the easiest, neither just work hard and maximize hours per week. TELL A STORY !!!
 
 I have always loved maths & modeling. At the age of 18, I had the chance to work for ABB Semiconductors during my school holidays and modeled heat spread from differently shaped thyristors. One was finger-gate, I don't remember the second. Whether you believe it or not - back in 2003, this task involved ruler and pencil! I would love to hear from ABB, whether a more efficient method for solving this task has been invented in the meantime.
 
@@ -32,11 +31,6 @@ I have several private projects in my mind, am planning to develop an android ap
 ![](/images/GlaciersMelting.jpg)
 
 In case you are curious about where I see myself in 5 or 10 years, I have to admit wondering about that, too. The world is too dynamic for me to have such an answer at hand already today. I will thus just continue sowing many little plans in our garden in the continuous hope of by whichever means being contributing to making this world a better place to live. Be it for patients of any species, children of any ethnicity or any other living creature except for Sars-COV2. 
-
-
-
-regentropfen makrobild
-don't forget DSLR pix !!! link to Omdena project & PGDMLAI ! :)
 
 
 
@@ -69,7 +63,7 @@ https://keras.io/
 
 
 
-# [Omdena: Prevention of Online Violence against Children]
+# Omdena: Prevention of Online Violence against Children
 
 From August 20 to October 20, 2020, I am participating in an [Omdena project](https://omdena.com/projects/children-violence/) aimed at contributing to the prevention of online violence against children, with the help of NLP techniques. The outbreak of Covid-19 has massively aggravated related issues, since many schools are still closed worldwide and kids are receiving a substantial part of their education online.
 
@@ -99,3 +93,15 @@ UPLOAD MY REPORT HERE
 # Publication List !!
 
 ...under construction...
+
+Roccaro-Waldmeyer DM, Schucht P, Murek M, Zubak I, Goldberg J, Falk S, Dahlweid M, Raabe A. Crowdfunding for Innovative Medical Research: the HORAO Crowdfunding Campaign. Journal of Medical Internet Research. 25/06/2020:19715 (forthcoming/in press).
+
+Dahlweid FM, Roccaro-Waldmeyer DM. Artificial Intelligence in der Medizin - Vom Hype zur Realität. In: Digitale Transformation im Krankenhaus - Thesen, Potentiale, Anwendungen. Mediengruppe Oberfranken - Fachverlage. 2019.
+  
+Gutierrez Herrera C, Girard F, Bilella A, Gent TC, Roccaro-Waldmeyer DM, Adamantidis A, Celio MR. Neurons in the Nucleus papilio contribute to the control of eye movements during REM sleep. Nature Communications. 2019; 10(1).
+ 
+Babalian A, Eichenberger S, Bilella A, Girard F, Szabolcsi V, Roccaro D, et al. The orbitofrontal cortex projects to the parvafox nucleus of the ventrolateral hypothalamus and to its targets in the ventromedial periaqueductal grey matter. Brain structure & function. 2018.
+   
+Roccaro-Waldmeyer DM, Girard F, Milani D, Vannoni E, Pretot L, Wolfer DP, et al. Eliminating the VGlut2-Dependent Glutamatergic Transmission of Parvalbumin-Expressing Neurons Leads to Deficits in Locomotion and Vocalization, Decreased Pain Sensitivity, and Increased Dominance. Frontiers in behavioral neuroscience. 2018;12:146. 
+ 
+Roccaro-Waldmeyer DM, Babalian A, Muller A, Celio MR. Reduction in 50-kHz call-numbers and suppression of tickling-associated positive affective behaviour after lesioning of the lateral hypothalamic parvafox nucleus in rats. Behavioural brain research. 2016;298(Pt B):167-80.
