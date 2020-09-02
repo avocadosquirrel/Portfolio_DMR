@@ -75,6 +75,8 @@ embed this link! no need to display URL ;) !!
 
 # Kaggle Competitions
 
+...under construction...
+
 ... founded team cheeky-DSS and initiated analysis on HousePrices .. show the 2 overviews most promising features ...
 
 
@@ -84,14 +86,9 @@ In the framework of a CAPSTONE project ... PGDMLAI ...
 
 # My PhD
 
-...... 
+![](https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/images/PhD_AllInOne.jpg) 
 
-
-# My kiddy times - ABB
-
-thyristor drawing ... find old drawings???
-
-# My personal interests
 
 # Publication List !!
 
+...under construction...
