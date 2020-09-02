@@ -2,6 +2,7 @@
 Diana's portfolio created for DXC Technology - Open Health Connect
 
 
+
 # Welcome to my little world & GitHub Repository!
 
 Dear reader, I am very pleased to see you've found your way through my Portfolio. My name is Diana, I live in Switzerland and am a neuroscientist by education. Please don't take this too serious! You might just as well call me a ML engineer, data scientist, statistician, clinical researcher, medical writer or even relationships manager. Also passionate gardener, mommy of two daughters, macro photographer would fit quite well.
@@ -69,7 +70,6 @@ In case you are curious about where I see myself in 5 or 10 years, I have to adm
 <a href="https://www.graphpad.com/scientific-software/prism/"><img height="50" width="140" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_52e37f0a6d5c743165ff980b25f27f63/graphpad-prism.png">
 
 
-
 # Omdena: Prevention of Online Violence against Children
 
 From August 20 to October 20, 2020, I am participating in an [Omdena project](https://omdena.com/projects/children-violence/) aimed at contributing to the prevention of online violence against children, with the help of NLP techniques. The outbreak of Covid-19 has massively aggravated related issues, since many schools are still closed worldwide and kids are receiving a substantial part of their education online.
@@ -91,15 +91,15 @@ Between March and December 2019, I had the chance to pursue a [Postgraduate Dipl
 
 UPLOAD MY REPORT HERE
 
+
 # My PhD
 
 ![](https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/images/PhD_AllInOne.jpg) 
 
 
 
-# Publication List !!
+# Publication List
 
-...under construction...
 
 Roccaro-Waldmeyer DM, Schucht P, Murek M, Zubak I, Goldberg J, Falk S, Dahlweid M, Raabe A. Crowdfunding for Innovative Medical Research: the HORAO Crowdfunding Campaign. Journal of Medical Internet Research. 25/06/2020:19715 (forthcoming/in press).
 
