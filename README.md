@@ -46,7 +46,7 @@ In case you are curious about where I see myself in 5 or 10 years, I have to adm
 <a href="https://www.stata.com/"><img height="50" width="140" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSg_VmM_D6WApZ5H5hcrR7xe-L8nFD3WF8g_g&usqp=CAU">
 <a href="https://ch.mathworks.com/de/products/matlab.html"><img height="75" width="237" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSm6_4rx9TvVvC5qKnDqgXMXkm8AzL1SsFCyw&usqp=CAU">
 <a href="https://www.wolfram.com/mathematica/?source=nav"><img height="50" width="220" src="https://www.additive-net.de/images/software/wolfram/mathematica/mma_11/mathematica_11_logo.png">
-<a href="https://www.graphpad.com/scientific-software/prism/"><img height="50" width="140" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_52e37f0a6d5c743165ff980b25f27f63/graphpad-prism.png">
+
 
 
 <p align="center">
@@ -64,8 +64,8 @@ In case you are curious about where I see myself in 5 or 10 years, I have to adm
 
 
 <p align="center">
-<a href="https://matplotlib.org/3.1.0/index.html"><img height="85" width="160" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg">
-
+<a href="https://www.scipy.org/"><img height="85" width="160" src="https://banner2.cleanpng.com/20180515/wlq/kisspng-scipy-numpy-python-scikit-learn-pip-5afac9ed390699.7554647915263851332336.jpg">
+<a href="https://www.graphpad.com/scientific-software/prism/"><img height="50" width="140" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_52e37f0a6d5c743165ff980b25f27f63/graphpad-prism.png">
 
 
 
