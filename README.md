@@ -78,8 +78,8 @@ In case you are curious about where I see myself in 5 or 10 years, I have to adm
 <br/>
 <br/>
 
-## Selected Projects
 
+## Selected Projects
 
 ### Omdena: Prevention of Online Violence against Children
 
