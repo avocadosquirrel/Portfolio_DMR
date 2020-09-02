@@ -51,8 +51,11 @@ In case you are curious about where I see myself in 5 or 10 years, I have to adm
 <p align="center">
 <a href="https://keras.io/"><img height="50" width="172" src="https://keras.io/img/logo.png">
 <a href="https://www.tensorflow.org/"><img height="85" width="160" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
+<a href="https://feature-engine.readthedocs.io/en/latest/"><img height="85" width="85" src="https://feature-engine.readthedocs.io/en/latest/_images/FeatureEngine.png">
+<a href="https://scikit-learn.org/stable/#"><img height="85" width="127" src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png">
 
-https://keras.io/
+
+
 
 <p align="center">
 
