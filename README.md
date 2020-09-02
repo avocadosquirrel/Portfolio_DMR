@@ -104,14 +104,14 @@ UPLOAD MY REPORT HERE
 ## Publication List
 
 
-Roccaro-Waldmeyer DM, Schucht P, Murek M, Zubak I, Goldberg J, Falk S, Dahlweid M, Raabe A. Crowdfunding for Innovative Medical Research: the HORAO Crowdfunding Campaign. Journal of Medical Internet Research. 25/06/2020:19715 (forthcoming/in press).
+**Roccaro-Waldmeyer DM**, Schucht P, Murek M, Zubak I, Goldberg J, Falk S, Dahlweid M, Raabe A. Crowdfunding for Innovative Medical Research: the HORAO Crowdfunding Campaign. Journal of Medical Internet Research. 25/06/2020:19715 (forthcoming/in press).
 
-Dahlweid FM, Roccaro-Waldmeyer DM. Artificial Intelligence in der Medizin - Vom Hype zur Realität. In: Digitale Transformation im Krankenhaus - Thesen, Potentiale, Anwendungen. Mediengruppe Oberfranken - Fachverlage. 2019.
+Dahlweid FM, **Roccaro-Waldmeyer DM**. Artificial Intelligence in der Medizin - Vom Hype zur Realität. In: Digitale Transformation im Krankenhaus - Thesen, Potentiale, Anwendungen. Mediengruppe Oberfranken - Fachverlage. 2019.
   
-Gutierrez Herrera C, Girard F, Bilella A, Gent TC, Roccaro-Waldmeyer DM, Adamantidis A, Celio MR. Neurons in the Nucleus papilio contribute to the control of eye movements during REM sleep. Nature Communications. 2019; 10(1).
+Gutierrez Herrera C, Girard F, Bilella A, Gent TC, **Roccaro-Waldmeyer DM**, Adamantidis A, Celio MR. Neurons in the Nucleus papilio contribute to the control of eye movements during REM sleep. Nature Communications. 2019; 10(1).
  
-Babalian A, Eichenberger S, Bilella A, Girard F, Szabolcsi V, Roccaro D, et al. The orbitofrontal cortex projects to the parvafox nucleus of the ventrolateral hypothalamus and to its targets in the ventromedial periaqueductal grey matter. Brain structure & function. 2018.
+Babalian A, Eichenberger S, Bilella A, Girard F, Szabolcsi V, **Roccaro D**, et al. The orbitofrontal cortex projects to the parvafox nucleus of the ventrolateral hypothalamus and to its targets in the ventromedial periaqueductal grey matter. Brain structure & function. 2018.
    
-Roccaro-Waldmeyer DM, Girard F, Milani D, Vannoni E, Pretot L, Wolfer DP, et al. Eliminating the VGlut2-Dependent Glutamatergic Transmission of Parvalbumin-Expressing Neurons Leads to Deficits in Locomotion and Vocalization, Decreased Pain Sensitivity, and Increased Dominance. Frontiers in behavioral neuroscience. 2018;12:146. 
+**Roccaro-Waldmeyer DM**, Girard F, Milani D, Vannoni E, Pretot L, Wolfer DP, et al. Eliminating the VGlut2-Dependent Glutamatergic Transmission of Parvalbumin-Expressing Neurons Leads to Deficits in Locomotion and Vocalization, Decreased Pain Sensitivity, and Increased Dominance. Frontiers in behavioral neuroscience. 2018;12:146. 
  
-Roccaro-Waldmeyer DM, Babalian A, Muller A, Celio MR. Reduction in 50-kHz call-numbers and suppression of tickling-associated positive affective behaviour after lesioning of the lateral hypothalamic parvafox nucleus in rats. Behavioural brain research. 2016;298(Pt B):167-80.
+**Roccaro-Waldmeyer DM**, Babalian A, Muller A, Celio MR. Reduction in 50-kHz call-numbers and suppression of tickling-associated positive affective behaviour after lesioning of the lateral hypothalamic parvafox nucleus in rats. Behavioural brain research. 2016;298(Pt B):167-80.
