@@ -31,7 +31,7 @@ I have several private projects in my mind, am planning to develop an android ap
 
 ![](/images/GlaciersMelting.jpg)
 
-In case you are curious about how I see myself in 5 or 10 years, I have to admit wondering about that myself, too. The world is too dynamic for me to have such an answer at hand already today. I will thus just continue sowing many little plans in our garden in the continuous hope of by whichever means being contributing to making this world a better place to live. Be it for patients of any species, children of any ethnicity or any other living creature except for Sars-COV2. 
+In case you are curious about where I see myself in 5 or 10 years, I have to admit wondering about that, too. The world is too dynamic for me to have such an answer at hand already today. I will thus just continue sowing many little plans in our garden in the continuous hope of by whichever means being contributing to making this world a better place to live. Be it for patients of any species, children of any ethnicity or any other living creature except for Sars-COV2. 
 
 
 
@@ -84,9 +84,11 @@ I am part of a team of data scientists working on Kaggle Competitions together. 
 
 # Market Segmentation Analysis for AAA Northeast
 
-Between March and December 2019, I had the chance to pursue a [Postgraduate Diploma in Machine Learning & Artificial Intelligence](https://execed.cvn.columbia.edu/pgdmlai/index.php?ta=y&utm_source=Google&utm_medium=Search&utm_campaign=B-10055_WW_GG_SE_PGDMLAI_SEP_20_Brand_New&utm_content=Emeritus-Brand&utm_term=%2Bemeritus%20%2Bmachine%20%2Blearning&gclid=Cj0KCQjwhb36BRCfARIsAKcXh6GYpaI1h3McvZ69YLnC-zaZN6YwysT_12__llB84wMLN-7nTet65dAaArEBEALw_wcB) offered by EMERITUS in collaboration with Columbia Engineering Executive Education.  
+Between March and December 2019, I had the chance to pursue a [Postgraduate Diploma in Machine Learning & Artificial Intelligence](https://execed.cvn.columbia.edu/pgdmlai/index.php?ta=y&utm_source=Google&utm_medium=Search&utm_campaign=B-10055_WW_GG_SE_PGDMLAI_SEP_20_Brand_New&utm_content=Emeritus-Brand&utm_term=%2Bemeritus%20%2Bmachine%20%2Blearning&gclid=Cj0KCQjwhb36BRCfARIsAKcXh6GYpaI1h3McvZ69YLnC-zaZN6YwysT_12__llB84wMLN-7nTet65dAaArEBEALw_wcB) offered by EMERITUS in collaboration with Columbia Engineering Executive Education.
 
-In the framework of a CAPSTONE project ... PGDMLAI ... 
+3 months of theoretical courses on ML foundations were followed by 3 months of theoretical courses related to AI. During these 6 months, (bi/)weekly assignments had to be handed in in the form of Jupyter Notebooks. The third part of this PGDMLAI consisted in a 7-week CAPSTONE project conducted in collaboration with the roadside assistance provider AAA Northeast. 
+
+UPLOAD MY REPORT HERE
 
 # My PhD
 
