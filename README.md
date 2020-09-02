@@ -79,7 +79,7 @@ embed this link! no need to display URL ;) !!
 
 I am part of a team of data scientists working on Kaggle Competitions together. Am very much looking forward to extending this section in the near future :) 
 
-![](https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/KaggleHousePrices_inDABL.pdf) 
+![](https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/KaggleHousePrices_inDABL.jpg) 
 
 
 # Market Segmentation Analysis for AAA Northeast
