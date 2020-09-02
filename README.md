@@ -15,14 +15,17 @@ Dear reader, I am very pleased to see you've found your way through my Portfolio
 I have always loved maths & modeling. At the age of 18, I had the chance to work for ABB Semiconductors during my school holidays and modeled heat spread from differently shaped thyristors. Whether you believe it or not - back in 2003, this task involved ruler and pencil! I would love to hear from ABB, whether a more efficient method for solving this task has been invented in the meantime.
 
 ![](/images/AutumnComing.jpg)
+<br/>
 
 Since I however hated conducting mathematical proofs, studying maths was no option to me. Rather architecture or graphical design. I ended up studying Human Medicine and got to learn about an association organizing research exchange stays for Swiss Medical Students. This took me to Japan (Hokkaido University, Molecular Pathology), where I spent three amazing months in 2008. During my 5th semester, I realized not desiring to become a medical doctor. Too much bureaucracy, too broad the scope, eventually mostly a classification problem accompanied by too much noise around my personal signals of interest. I have always loved to dive deeper, truly understand relationships and mechanisms. This made me turn towards Biomedical Sciences, and thereafter add a PhD in Neuroscience (/Medical Sciences). I am fascinated by the complex networks of our brains and by the fact that abstract things such as human cognition and perception can be conceptualized at all. Or should we better say: that scientists out there believe, they could do so?
 
-![](https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/images/AcupunctureSchool.jpg) 
+![](https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/images/AcupunctureSchool.jpg)
+<br/>
 
 My PhD covered a wide range of hypotheses and methods, but was mostly about the quest for revealing the function of a previously undiscovered aggregation of cells in the rodent brain. We manipulated this lateral hypothalamic nucleus using various approaches (lesional, chemogenetic and optogenetic) and my task was to quantify both the degree, to which our manipulation was successful, and associated changes in behavior or vital parameters. I came into touch with Transmission Electron as well as Confocal Microscopy, the foundations of stereology, segmentation techniques, and many more. In parallel to finishing my PhD, I started working as a Medical Writer and composed the State-of-the-Art section for Clinical Evaluation Reports of Medical Devices in Traumatology/Orthopaedics. 
 
 ![](https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/images/PhD_Thesis.jpg)
+<br/>
 
 Although it would have been very interesting to develop the hypothalamic story further (I am actually still working on that, too, but shifted from SPSS to R and python in the meantime...), I felt the desire to create more immediate impact in another domain and to therefore turn back towards more clinical medicine. I joined the University Hospital of Bern in 2018, where [Switzerland's first Clinical Data Science Center](http://www.idsc.io/de/) was just being established. My purpose there was to write, but my secret thought in the back of my head grew stronger and told me to finally do what I had always dreamt of: turn back towards numbers, maths, data and modeling. 
 
@@ -31,6 +34,7 @@ I am very grateful to Omdena for having selected me as one of ~60 developers fro
 I have several private projects in my mind, am intending to develop an android app to support my personal garden planning from 2021 onwards. I am addicted to learning new stuff that will help the earth to turn not only more efficiently, but also more sustainably. I fell in love with innovation and am an autodidact at heart, always eager to increase efficiency, output, and, above all, VALUE. Value for all patients worldwide, for our recent society completely overwhelmed by the challenges related to the outbreak of Covid-19, for my own personal environment, as well as for the employers with whom I work together. 
 
 ![](/images/GlaciersMelting.jpg)
+<br/>
 
 In case you are curious about where I see myself in 5 or 10 years, I have to admit wondering about that, too. The world is too dynamic for me to have such an answer at hand already today. I will thus just continue sowing my little plants in our garden, in the continuous hope of by whichever means being able to contribute to making this world a better place to live. Be it for patients of any species, children of any ethnicity or any other living creature (note: Sars-COV2 is not part of the object class "living creature", but relies on animal cells to express its genes). 
 
