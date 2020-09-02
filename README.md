@@ -40,7 +40,7 @@ don't forget DSLR pix !!! link to Omdena project & PGDMLAI ! :)
 
 
 
-## Technologies I've already worked with
+## Tools I've already worked with
 <p align="center">
 <a href="https://www.python.org/"><img height="60" width="180" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg">
 <a href="https://rstudio.com/"><img height="75" width="140" src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg">
@@ -77,9 +77,9 @@ embed this link! no need to display URL ;) !!
 
 # Kaggle Competitions
 
-...under construction...
+I am part of a team of data scientists working on Kaggle Competitions together. Am very much looking forward to extending this section in the near future :) 
 
-... founded team cheeky-DSS and initiated analysis on HousePrices .. show the 2 overviews most promising features ...
+![](https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/KaggleHousePrices_inDABL.pdf) 
 
 
 # Market Segmentation Analysis for AAA Northeast
