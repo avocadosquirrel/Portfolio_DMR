@@ -1,5 +1,5 @@
 # Diana Roccaro
-Diana's portfolio created for DXC Technology - Open Health Connect  
+
 <br/>
 <br/>
 
