@@ -77,6 +77,12 @@ In case you are curious about where I see myself in 5 or 10 years, I have to adm
 
 ## Selected Projects
 
+
+### NLP Summit Hackathon, October 07-08: Country Development Stage vs. Covid-19 Case Fatality
+
+... results constructed, waiting to be added here ... :)
+
+
 ### Omdena: Prevention of Online Violence against Children
 
 From August 20 to October 20, 2020, I am participating in an [Omdena project](https://omdena.com/projects/children-violence/) aimed at contributing to the prevention of online violence against children, with the help of NLP techniques. The outbreak of Covid-19 has massively aggravated related issues, since many schools are still closed worldwide and kids are receiving a substantial part of their education online.
