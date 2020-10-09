@@ -82,6 +82,8 @@ In case you are curious about where I see myself in 5 or 10 years, I have to adm
 
 ... results constructed, waiting to be added here ... :)
 
+<br/>
+<br/>
 
 ### Omdena: Prevention of Online Violence against Children
 
