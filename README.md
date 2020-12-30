@@ -48,6 +48,7 @@ In case you are curious about where I see myself in 5 or 10 years, I have to adm
 <a href="https://rstudio.com/"><img height="75" width="140" src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg">
 
 <p align="center">
+<a href="https://www.johnsnowlabs.com/"><img height="68" width="197" src="https://events.johnsnowlabs.com/hs-fs/hubfs/John_Snow_Labs_February2020/Images/johnsnowlabs_logo.png?width=1364&name=johnsnowlabs_logo.png">
 <a href="https://feature-engine.readthedocs.io/en/latest/"><img height="85" width="85" src="https://feature-engine.readthedocs.io/en/latest/_images/FeatureEngine.png">
 <a href="https://scikit-learn.org/stable/#"><img height="68" width="127" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png">  
 <a href="https://keras.io/"><img height="50" width="172" src="https://keras.io/img/logo.png">
