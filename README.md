@@ -117,6 +117,8 @@ From August 20 to October 20, 2020, I was participating in an [Omdena project](h
 
 ... results under construction ...
 
+https://medium.com/omdena/adopting-an-agile-navigation-approach-in-an-ai-project-2d7a33213465
+
 <br/>
 <br/>
 
