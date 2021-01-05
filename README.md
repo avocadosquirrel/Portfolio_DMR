@@ -84,6 +84,8 @@ In case you are curious about where I see myself in 5 or 10 years, I have to adm
 
 During my first Omdena project, which dealt with Natural Language Processing, I also participated in my very first hackathon, where I won the [3rd prize](https://www.johnsnowlabs.com/john-snow-labs-announces-the-3-winners-of-the-nlp-summit-hackathon/). Since we could access datasets covering health-related as well as economic factors, I decided to investigate the relationships between the likelihood to die from a Covid-19 disease, and factors related to a country’s developmental stage. 
 
+![](https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/images/StatPlanetScreenshot.jpg)
+
 I fed 37 different parameters into [StatPlanet](https://www.statsilk.com/software/statplanet) to interactively visualize the global distribution of these parameters for 51 countries. A correlation matrix, together with a quick evaluation using the [Data Analysis Baseline Library](https://pypi.org/project/dabl/) revealed the Covid-19 case fatality to correlate most strongly with 
 
 1) the percentage of women in parliaments, 
