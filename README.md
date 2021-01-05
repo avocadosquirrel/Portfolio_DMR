@@ -80,7 +80,17 @@ In case you are curious about where I see myself in 5 or 10 years, I have to adm
 ## Selected Projects
 
 
-### NLP Summit Hackathon, October 07-08: Country Development Stage vs. Covid-19 Case Fatality
+### Omdena Project 2 (Computer Vision & Deep Learning): Weed Detection Using Machine Learning. 
+
+From December 20 to February 4, 2021, I am participating in my second [Omdena project](https://omdena.com/projects/ai-weed/) aimed at building a convolutional neural network (CNN) able to distinguish carrot plants from weed on the basis of RGB images in real-time. 
+
+... results under construction ...
+
+<br/>
+<br/>
+
+
+### NLP Summit Hackathon, October 07-08, 2020: Country Development Stage vs. Covid-19 Case Fatality
 
 During my first Omdena project, which dealt with Natural Language Processing, I also participated in my very first hackathon, where I won the [3rd prize](https://www.johnsnowlabs.com/john-snow-labs-announces-the-3-winners-of-the-nlp-summit-hackathon/). Since we could access datasets covering health-related as well as economic factors, I decided to investigate the relationships between the likelihood to die from a Covid-19 disease, and factors related to a country’s developmental stage. 
 
@@ -101,9 +111,9 @@ Although correlation is not causation, and despite the likely presence of some c
 <br/>
 <br/>
 
-### Omdena: Prevention of Online Violence against Children
+### Omdena Project 1 (NLP): Prevention of Online Violence against Children
 
-From August 20 to October 20, 2020, I am participating in an [Omdena project](https://omdena.com/projects/children-violence/) aimed at contributing to the prevention of online violence against children, with the help of NLP techniques. The outbreak of Covid-19 has massively aggravated related issues, since many schools are still closed worldwide and kids are receiving a substantial part of their education online.
+From August 20 to October 20, 2020, I was participating in an [Omdena project](https://omdena.com/projects/children-violence/) aimed at contributing to the prevention of online violence against children, with the help of NLP techniques. The outbreak of Covid-19 has massively aggravated related issues, since many schools are still closed worldwide and kids are receiving a substantial part of their education online.
 
 ... results under construction ...
 
