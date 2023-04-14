@@ -5,7 +5,7 @@
 
 ### Welcome to my little world & GitHub Repository!
 
-Dear reader, I am very pleased to see you've found your way through my Portfolio. My name is Diana, I live in Switzerland and am a neuroscientist by education. Please don't take this too serious! You might just as well call me a ML engineer, data scientist, statistician, clinical researcher, medical writer or even relationships manager. Also passionate gardener, mommy of two daughters, macro photographer would fit quite well.
+Dear reader, I am very pleased to see you've found your way through my Portfolio. My name is Diana, I live in Switzerland and am a neuroscientist by education. Please don't take this too serious! You might just as well call me a ML engineer, data scientist, statistician, algorithmic trader, clinical researcher, medical writer or even relationships manager. Also passionate gardener, mommy of two daughters, macro photographer would fit quite well.
 
 ![](https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/WelcomeSayings.png)
 <br/>
