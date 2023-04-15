@@ -42,7 +42,7 @@ In February 2021, I joined Dedalus Healthcare as a freelancer to develop "Clinic
 
 In my spare time, I love doing various sports (among my favorites are ski tours, aerial yoga, volleyball, nordic skiing ...), and trying to stay up-to-date on topics related to a healthy lifestyle and diet. I track my sleep and recovery using a BIOSTRAP wristband, track my physical activity using either BIOSTRAP or a POLAR sportswatch, and let a GARMIN device help me with navigation and route planning while biking or running through yet unknown territories. I am always curious to follow the latest technological advances in this domain, while on the other hand always trying to collect my personal data only for some purpose, while trying to achieve a specific next goal in my life. 
 
-In case you are curious about where I see myself in 5 or 10 years, I have to admit wondering about that, too. The world is too dynamic for me to have such an answer at hand already today. I will thus just continue sowing my little plants in our garden, in the continuous hope of by whichever means being able to contribute to making this world a better place to live. Be it for patients of any species, children of any ethnicity or any other living creature. 
+In case you are curious about where I see myself in 5 or 10 years, I have to admit wondering about that, too. The world is too dynamic for me to have such an answer at hand already today. I will thus just continue sowing my little plants in our garden, in the continuous hope of by whichever means being able to contribute to making this world a better place to live. Be it for patients of any species, children of any ethnicity or any other creature living on this planet. 
 
 <br/>
 <br/>
