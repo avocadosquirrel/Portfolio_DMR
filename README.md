@@ -27,7 +27,7 @@ My PhD covered a wide range of hypotheses and methods, but was mostly about the 
 ![](https://github.com/avocadosquirrel/Portfolio_DMR/blob/master/images/PhD_Thesis.jpg)
 <br/>
 
-Although it would have been very interesting to develop the hypothalamic story further (I am actually still working on that, too, but shifted from SPSS to R and python in the meantime...), I felt the desire to create more immediate impact in another domain and to therefore turn back towards more clinical medicine. I joined the University Hospital of Bern in 2018, where [Switzerland's first Clinical Data Science Center](http://www.idsc.io/de/) was just being established. My purpose there was to write, but my secret thought in the back of my head grew stronger and told me to finally do what I had always dreamt of: turn back towards numbers, maths, data and modeling. 
+Although it would have been very interesting to develop the hypothalamic story further (I have actually continued working on that, until very recently, but shifted from SPSS to R and python in the meantime...), I felt the desire to create more immediate impact in another domain and to therefore turn back towards more clinical medicine. I joined the University Hospital of Bern in 2018, where [Switzerland's first Clinical Data Science Center](http://www.idsc.io/de/) was just being established. My purpose there was to write, but my secret thought in the back of my head grew stronger and told me to finally do what I had always dreamt of: turn back towards numbers, maths, data and modeling. 
 
 I am very grateful to Omdena for having selected me as one of ~60 developers from all over the world allowed to contribute to a [recently ongoing 8-week NLP project](https://omdena.com/projects/children-violence/) aimed at preventing online violence against children. 
 
@@ -35,6 +35,10 @@ I have several private projects in my mind, am intending to develop an android a
 
 ![](/images/GlaciersMelting.jpg)
 <br/>
+
+Since August 2020, I have worked on an estimated 15 projects with Omdena, to which I contributed first as a Lead Machine Learning Engineer, to later on take over the role of the Technical Mentor and Healthcare Domain Expert. My collaboration with Omdena allows me to broaden my horizon, stay up-to-date with state-of-the-art technology, and see into fields such as time-series analysis and computer vision, which have not yet been the main focus in my main job, this far. 
+
+In February 2021, I joined Dedalus Healthcare as a freelancer to develop "Clinical Self-Service" functionalities during half a year. Thereafter, I was transferred from the Spanish to the Belgian Team to again focus primarily on Natural Language Processing. Although NLP has been the main focus of my work these past years, I truly enjoy working with numerical data. I consider time-series problems, including anomaly detection problems, in the healthcare domain to be one of those examples, which require not only technical and coding skills, but above all also a proper understanding of the underlying biological mechanisms, to allow for a proper selection and design of the modeling strategies to be applied. 
 
 In case you are curious about where I see myself in 5 or 10 years, I have to admit wondering about that, too. The world is too dynamic for me to have such an answer at hand already today. I will thus just continue sowing my little plants in our garden, in the continuous hope of by whichever means being able to contribute to making this world a better place to live. Be it for patients of any species, children of any ethnicity or any other living creature (note: Sars-COV2 is not part of the object class "living creature", but relies on animal cells to express its genes). 
 
