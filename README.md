@@ -155,7 +155,7 @@ Between March and December 2019, I had the chance to pursue a [Postgraduate Dipl
 <br/>
 <br/>
 
-## Publication List
+## Publication List (2020-2023 still under construction ...)
 
 
 **Roccaro-Waldmeyer DM**, Schucht P, Murek M, Zubak I, Goldberg J, Falk S, Dahlweid M, Raabe A. Crowdfunding for Innovative Medical Research: the HORAO Crowdfunding Campaign. Journal of Medical Internet Research. 25/06/2020:19715 (forthcoming/in press).
